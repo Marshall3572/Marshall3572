@@ -16,32 +16,27 @@
 
 ## Current Signal
 
-```text
-ROLE      Frontend Engineer @ TikTok
-BASE      Dubai, UAE
-FOCUS     Product UI | Design Systems | Developer Experience
-MODE      React | Vue | TypeScript | Go
-ENERGY    Clean interfaces with hip-hop rhythm
-```
+- `ROLE` Frontend Engineer @ TikTok
+- `BASE` Dubai, UAE
+- `FOCUS` Product UI | Design Systems | Developer Experience
+- `MODE` React | Vue | TypeScript | Go
+- `ENERGY` Clean interfaces with hip-hop rhythm
 
 I build product interfaces that stay sharp under real-world complexity: clear interaction, durable component boundaries, and tooling that keeps teams moving.
 
 ## Selected Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Marshall3572/Data-visualization">01 / DATA VISUALIZATION</a></h3>
-      <p>A large-screen data dashboard exploring dense, high-impact information design with React and ECharts.</p>
-      <p><code>React</code> <code>ECharts</code> <code>Vite</code> <code>Sass</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Marshall3572/MarshallDesign">02 / MARSHALL DESIGN</a></h3>
-      <p>A Vue component-library experiment focused on reusable UI, documentation, and a lightweight build workflow.</p>
-      <p><code>Vue</code> <code>Vite</code> <code>Rollup</code> <code>Prism</code></p>
-    </td>
-  </tr>
-</table>
+### 01 / [DATA VISUALIZATION](https://github.com/Marshall3572/Data-visualization)
+
+A large-screen data dashboard exploring dense, high-impact information design with React and ECharts.
+
+`React` `ECharts` `Vite` `Sass`
+
+### 02 / [MARSHALL DESIGN](https://github.com/Marshall3572/MarshallDesign)
+
+A Vue component-library experiment focused on reusable UI, documentation, and a lightweight build workflow.
+
+`Vue` `Vite` `Rollup` `Prism`
 
 ## Toolkit
 

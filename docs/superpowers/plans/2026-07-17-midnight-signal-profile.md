@@ -156,7 +156,7 @@ Run `test -s assets/midnight-signal-banner.png`, then request each unique extern
 
 Expected: the local asset is non-empty; profile, project, social, badge, skill-icon, and statistic URLs return HTTP `200` or a successful `3xx` redirect.
 
-- [ ] **Step 2: Inspect the banner at desktop and mobile crops**
+- [x] **Step 2: Inspect the banner at desktop and mobile crops**
 
 Open `assets/midnight-signal-banner.png` at its original size, then create a temporary narrow preview that scales the full image to 390 pixels wide without changing its aspect ratio.
 
@@ -186,7 +186,7 @@ git diff -- README.md
 
 Expected: only the design document, implementation plan, banner, and README are changed; no whitespace errors are reported.
 
-- [ ] **Step 2: Commit the implementation**
+- [x] **Step 2: Commit the implementation**
 
 Run:
 
@@ -197,7 +197,7 @@ git commit -m "Refresh profile with Midnight Signal design"
 
 Expected: one implementation commit containing the banner, README, and implementation plan.
 
-- [ ] **Step 3: Push directly to main**
+- [x] **Step 3: Push directly to main**
 
 Run:
 
@@ -207,7 +207,7 @@ git push origin main
 
 Expected: `main` advances on `github.com:Marshall3572/Marshall3572.git`.
 
-- [ ] **Step 4: Verify the remote result**
+- [x] **Step 4: Verify the remote result**
 
 Fetch the remote `README.md` through the connected GitHub app, compare `git rev-parse HEAD` with `git ls-remote origin refs/heads/main`, and inspect `https://github.com/Marshall3572` at approximately 1440x900 and 390x844.
 
